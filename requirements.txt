@@ -8,3 +8,4 @@ langchain
 python-dotenv
 faiss-cpu
 uvicorn
+docx2txt
