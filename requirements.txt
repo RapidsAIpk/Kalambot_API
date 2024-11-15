@@ -1,0 +1,10 @@
+fastapi
+pydantic
+langchain_openai
+langchain_community
+langchain_text_splitters
+langchain_core
+langchain
+python-dotenv
+faiss-cpu
+uvicorn
